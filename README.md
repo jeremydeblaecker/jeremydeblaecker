@@ -1,9 +1,18 @@
+[![MasterHead](https://www.studyrama.com/sites/default/files/article/2022-06/arton103809.png)]
 <h1 align="center">Bonjour 👋, Je suis Jérémy Deblaecker</h1>
 <h3 align="center">Un développeur de logiciels passionné</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremydeblaecker&label=Profile%20views&color=0e75b6&style=flat" alt="jeremydeblaecker" /> </p>
 
-<h3 align="left">Mes réseaux:</h3>
+- 🌱 J'apprends actuellement **le développement logiciel avancé**
+
+- 👨‍💻 Tous mes projets sont disponibles sur [mon GitHub](mon GitHub)
+
+- 📫 Comment me contacter ? **Par mail : jeremy.deblaecker@gmail.com**
+
+- 📄 Connaître mes expériences professionnels [sur mon LinkedIn : Jérémy Deblaecker](sur mon LinkedIn : Jérémy Deblaecker)
+
+<h3 align="left">Mes réseaux sociaux:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jérémy deblaecker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jérémy deblaecker" height="30" width="40" /></a>
 </p>
