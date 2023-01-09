@@ -6,11 +6,11 @@
 
 - 🌱 J'apprends actuellement **le développement logiciel avancé**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [mon GitHub](mon GitHub)
+- 👨‍💻 Tous mes projets sont disponibles sur mon GitHub
 
 - 📫 Comment me contacter ? **Par mail : jeremy.deblaecker@gmail.com**
 
-- 📄 Connaître mes expériences professionnels [sur mon LinkedIn : Jérémy Deblaecker](sur mon LinkedIn : Jérémy Deblaecker)
+- 📄 Connaître mes expériences professionnels[sur mon LinkedIn : Jérémy Deblaecker
 
 <h3 align="left">Mes réseaux sociaux:</h3>
 <p align="left">
