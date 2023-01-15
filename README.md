@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremydeblaecker&label=Profile%20views&color=0e75b6&style=flat" alt="jeremydeblaecker" /> </p>
 
-- 🌱 J'apprends actuellement **le développement logiciel avancé**
+- 🌱 J'apprends actuellement **le développement mobile (Kotlin)**
 
 - 👨‍💻 Tous mes projets sont disponibles sur mon GitHub
 
