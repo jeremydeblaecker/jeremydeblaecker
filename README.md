@@ -10,7 +10,7 @@
 
 - 📫 Comment me contacter ? **Par mail : jeremy.deblaecker@gmail.com**
 
-- 📄 Connaître mes expériences professionnels sur mon LinkedIn : Jérémy Deblaecker
+- 📄 Connaître mes expériences professionnels sur mon LinkedIn : Jérémy Deblaecker ou sur mon Notion : https://andiora.notion.site/Curriculum-vit-d2dfdf417f6740168b68142ee6728c41  
 
 <h3 align="left">Mes réseaux sociaux:</h3>
 <p align="left">
